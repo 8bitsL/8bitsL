@@ -47,9 +47,9 @@
 <ul>
 
 <p align="left">
-	<img align="center"  src="https://github-readme-stats.vercel.app/api?username=LeoRangel&locale=pt-br&show_icons=true&hide_border=true&theme=react&count_private=true&hide=stars" alt="LeoRangel's stats" height="130"/>
-	<img align="center"  alt="LeoRangel's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LeoRangel&locale=pt-br&theme=react&hide_border=true&count_private=true" height="130"/>
-	<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoRangel&show_icons=true&locale=pt-br&layout=compact&theme=react&hide_border=true&count_private=true" alt="LeoRangel's stats" height="130"/>
+	<img align="center"  src="https://github-readme-stats.vercel.app/api?username=8bitsL&locale=pt-br&show_icons=true&hide_border=true&theme=react&count_private=true&hide=stars" alt="8bitsL's stats" height="130"/>
+	<img align="center"  alt="8bitsL's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=8bitsL&locale=pt-br&theme=react&hide_border=true&count_private=true" height="130"/>
+	<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=8bitsL&show_icons=true&locale=pt-br&layout=compact&theme=react&hide_border=true&count_private=true" alt="8bitsL stats" height="130"/>
 </p>
 
 </ul>
