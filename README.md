@@ -4,7 +4,7 @@
 <li>🎓 Sou graduado em Sistemas de Informação</li>
 <li>👨‍💻 Tenho experiência com desenvolvimento frontend e backend</li>
 <li>🧠 Atualmente estou estudando tanto o Frontend, com objetivo de dominar o JavaScript + React, como o Backend, com o objetivo de dominar a criação de API´s e a linguagem Java</li>
-<li>⭐ Meus interesses incluem também boas práticas de desenvolvimento, performance, SEO, responsividade, acessibilidade, web design, UI e UX design, API</li>
+<li>⭐ Meus interesses incluem também boas práticas de desenvolvimento, performance e construção de API</li>
 </ul>
 <br>
 
