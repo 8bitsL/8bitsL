@@ -23,7 +23,7 @@
 <ul>
 <br>
 		
-> Linguagens e Ferramentos que uso ou já usei:
+> Linguagens e Ferramentas que uso ou já usei:
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img alt="Git" src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032">
